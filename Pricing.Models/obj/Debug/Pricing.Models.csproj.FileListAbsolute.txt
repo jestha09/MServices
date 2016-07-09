@@ -1,0 +1,9 @@
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\Pricing.Models\bin\Debug\Pricing.Models.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\Pricing.Models\bin\Debug\Pricing.Models.pdb
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\Pricing.Models\obj\Debug\Pricing.Models.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\Pricing.Models\obj\Debug\Pricing.Models.pdb
+C:\Users\jestha.w\Source\Repos\MServices\Pricing.Models\bin\Debug\Pricing.Models.dll
+C:\Users\jestha.w\Source\Repos\MServices\Pricing.Models\bin\Debug\Pricing.Models.pdb
+C:\Users\jestha.w\Source\Repos\MServices\Pricing.Models\obj\Debug\Pricing.Models.csprojResolveAssemblyReference.cache
+C:\Users\jestha.w\Source\Repos\MServices\Pricing.Models\obj\Debug\Pricing.Models.dll
+C:\Users\jestha.w\Source\Repos\MServices\Pricing.Models\obj\Debug\Pricing.Models.pdb

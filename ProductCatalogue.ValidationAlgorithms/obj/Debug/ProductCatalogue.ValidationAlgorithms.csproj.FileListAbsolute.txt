@@ -1,0 +1,9 @@
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\ProductCatalogue.ValidationAlgorithms\bin\Debug\ProductCatalogue.ValidationAlgorithms.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\ProductCatalogue.ValidationAlgorithms\bin\Debug\ProductCatalogue.ValidationAlgorithms.pdb
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\ProductCatalogue.ValidationAlgorithms\bin\Debug\Interfaces.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\ProductCatalogue.ValidationAlgorithms\bin\Debug\ProductCatalogue.Models.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\ProductCatalogue.ValidationAlgorithms\bin\Debug\Interfaces.pdb
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\ProductCatalogue.ValidationAlgorithms\bin\Debug\ProductCatalogue.Models.pdb
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\ProductCatalogue.ValidationAlgorithms\obj\Debug\ProductCatalogue.ValidationAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\ProductCatalogue.ValidationAlgorithms\obj\Debug\ProductCatalogue.ValidationAlgorithms.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\ProductCatalogue.ValidationAlgorithms\obj\Debug\ProductCatalogue.ValidationAlgorithms.pdb

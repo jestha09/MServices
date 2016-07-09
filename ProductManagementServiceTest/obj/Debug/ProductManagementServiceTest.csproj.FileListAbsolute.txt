@@ -1,0 +1,6 @@
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductManagementServiceTest\obj\Debug\ProductManagementServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductManagementServiceTest\bin\Debug\ProductManagementServiceTest.dll.config
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductManagementServiceTest\bin\Debug\ProductManagementServiceTest.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductManagementServiceTest\bin\Debug\ProductManagementServiceTest.pdb
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductManagementServiceTest\obj\Debug\ProductManagementServiceTest.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductManagementServiceTest\obj\Debug\ProductManagementServiceTest.pdb

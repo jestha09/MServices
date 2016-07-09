@@ -1,0 +1,9 @@
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\UploadApis\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\jestha.w\Source\Repos\MServices\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\jestha.w\Source\Repos\MServices\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\jestha.w\Source\Repos\MServices\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\jestha.w\Source\Repos\MServices\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\jestha.w\Source\Repos\MServices\Interfaces\obj\Debug\Interfaces.pdb

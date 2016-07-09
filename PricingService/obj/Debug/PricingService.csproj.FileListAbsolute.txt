@@ -1,0 +1,5 @@
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\PricingService\bin\Debug\PricingService.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\PricingService\bin\Debug\PricingService.pdb
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\PricingService\obj\Debug\PricingService.csprojResolveAssemblyReference.cache
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\PricingService\obj\Debug\PricingService.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\PricingService\obj\Debug\PricingService.pdb

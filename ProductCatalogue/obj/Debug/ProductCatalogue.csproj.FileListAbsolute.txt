@@ -1,0 +1,5 @@
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductCatalogue\bin\Debug\ProductCatalogue.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductCatalogue\bin\Debug\ProductCatalogue.pdb
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductCatalogue\obj\Debug\ProductCatalogue.csprojResolveAssemblyReference.cache
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductCatalogue\obj\Debug\ProductCatalogue.dll
+C:\Users\jestha.w\Documents\Artefacts\Practice_2BDeleted\Microservices\ProductCatalogue\obj\Debug\ProductCatalogue.pdb
